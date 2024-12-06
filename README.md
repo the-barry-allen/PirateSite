@@ -14,6 +14,8 @@ aspects of web development and can be used to test source control systems.
 
 ## Project Structure
 
+big bug fixed
+
 pirate_website/
 ├── app.py # Main application file to run Flask
 ├── templates/
